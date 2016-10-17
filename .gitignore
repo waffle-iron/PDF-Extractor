@@ -1,0 +1,11 @@
+archive.js
+bin
+build
+cache
+*.bat
+7z
+node_modules
+config.json
+
+# allow build installer script (requires iss)
+!buildInstaller.bat
