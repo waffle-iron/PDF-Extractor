@@ -6,6 +6,7 @@ cache
 7z
 node_modules
 config.json
+pdfextractor_setup-*
 
 # allow build installer script (requires iss)
 !buildInstaller.bat

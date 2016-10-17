@@ -6,7 +6,7 @@
 
 ### Installation:
 #### _Option 1 (Installer)_
-- Grab a copy of the release installer from github.
+- Grab a copy of the [Latest Release](https://github.com/micaiahwallace/pdf_extractor/releases/latest "Releases (Latest)") from github.
 
 #### _Option 2 (Build from source)_
 1. Prerequistes: **InnoSetup, node.js** and **npm**
