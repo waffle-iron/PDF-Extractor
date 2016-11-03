@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/micaiahwallace/PDF-Extractor.png?label=ready&title=Ready)](https://waffle.io/micaiahwallace/PDF-Extractor)
 # PDF Extractor
 ### Features:
 - Grab pdf's from as many website pages as you want.
